@@ -1,0 +1,15 @@
+# Compilados de Maven
+target/
+
+# Configuración personal del IDE
+nbproject/private/
+.idea/workspace.xml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Compilados sueltos
+*.class
+*.war
+*.jar
